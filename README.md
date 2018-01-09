@@ -1,5 +1,5 @@
 # kafka-example
-Simple example for reading Kafka
+Simple example for reading Kafka 0.10 with updated POM
 
 # Set up Kafka
 
