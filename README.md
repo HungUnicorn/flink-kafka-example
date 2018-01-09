@@ -1,5 +1,6 @@
 # kafka-example
 Simple example for reading Kafka 0.10 with updated POM
+(flink-connector-kafka-0.10_2.10)
 
 # Set up Kafka
 
