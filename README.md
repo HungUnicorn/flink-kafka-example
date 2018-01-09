@@ -16,5 +16,6 @@ Simple example for reading Kafka
 ./bin/kafka-console-consumer.sh --topic test --zookeeper localhost:2181
 
 # produce something into the topic (write something and hit enter)
+```
 ./bin/kafka-console-producer.sh --topic test --broker-list localhost:9092
 ```
