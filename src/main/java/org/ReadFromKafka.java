@@ -15,7 +15,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.dataartisans;
+package org;
 
 import org.apache.flink.api.common.functions.MapFunction;
 import org.apache.flink.api.java.utils.ParameterTool;
@@ -25,7 +25,6 @@ import org.apache.flink.streaming.connectors.kafka.FlinkKafkaConsumer010;
 import org.apache.flink.streaming.util.serialization.SimpleStringSchema;
 
 /**
- * Simple example on how to read with a Kafka consumer
  *
  * Note that the Kafka source is expecting the following parameters to be set
  *  - "bootstrap.servers" (comma separated list of kafka brokers)
